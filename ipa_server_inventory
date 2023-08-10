@@ -1,0 +1,8 @@
+[ipaserver]
+RHEL9-IdM-Server.4yrgztw53qjelkez3sa54khe2b.bx.internal.cloudapp.net
+
+[ipaserver:vars]
+ipaserver_domain=example.com
+ipaserver_realm=EXAMPLE.COM
+ipaadmin_password=P455w0rd
+ipadm_password=P455w0rd
