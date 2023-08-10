@@ -1,5 +1,5 @@
 [ipaserver]
-ipaserver
+ipaserver.wvpzhoa2qkxuvmigppz1tlhoje.bx.internal.cloudapp.net
 
 [ipaserver:vars]
 ipaserver_domain=example.com
