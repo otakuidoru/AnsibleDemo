@@ -1,5 +1,5 @@
 [ipaserver]
-RHEL9-IdM-Server.4yrgztw53qjelkez3sa54khe2b.bx.internal.cloudapp.net
+ipaserver
 
 [ipaserver:vars]
 ipaserver_domain=example.com
